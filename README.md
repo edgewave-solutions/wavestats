@@ -44,4 +44,4 @@
 
 ## Licence
 
-Ce script est **libre d'utilisation et modification**, mais merci de garder le crédit à l'auteur original.
+Ce script est **libre d'utilisation et modification**, mais merci de mentionner Edgewave Solutions en tant que contributeur principal.
