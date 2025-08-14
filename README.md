@@ -22,7 +22,7 @@
 
 ## Installation
 
-1. Télécharger le fichier (WaveStats.vbs)(https://easyfiles.cc/sdlBh0fYpRH).
+1. Télécharger le fichier [wavestats.vbs]([https://easyfiles.cc/sdlBh0fYpRH "Installer WaveStats.vbs").
 2. Copier le fichier dans le dossier de votre choix.
 3. Double-cliquer sur `WaveStats.vbs` pour lancer le script.
 
